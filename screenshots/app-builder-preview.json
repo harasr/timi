@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Skybound",
+      "hasCanvas": true,
+      "bodyTextLen": 57,
+      "bodyTextHash": "00f27f88a041196a9dd8d2e90e3083f2e309ff8705f62a51e421e2f2bd84786f",
+      "bodyTextPrefix": "A HIGHLAND FLIGHT SKYBOUND One tap. One more flight. SKIP",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Skybound",
+      "hasCanvas": true,
+      "bodyTextLen": 57,
+      "bodyTextHash": "00f27f88a041196a9dd8d2e90e3083f2e309ff8705f62a51e421e2f2bd84786f",
+      "bodyTextPrefix": "A HIGHLAND FLIGHT SKYBOUND One tap. One more flight. SKIP",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
